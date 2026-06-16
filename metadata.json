@@ -1,0 +1,6 @@
+{
+  "name": "FORGE Ω",
+  "description": "ChatGPT-style creator assistant using Groq API with multiple generation modes and local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
